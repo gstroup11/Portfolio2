@@ -16,3 +16,5 @@ Wrapping Route with Routes: https://reactrouter.com/en/main/router-components/br
 Adding an Avatar: https://mui.com/material-ui/react-avatar/#image-avatars
 
 Installing Material UI: https://mui.com/getting-started/installation/
+
+Lines 49 - 57: Sourced from ChatGPT
