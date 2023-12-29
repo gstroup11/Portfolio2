@@ -22,3 +22,5 @@ Lines 49 - 57 in Portfolio: Sourced from ChatGPT
 EmailJS integration in Contact: https://www.emailjs.com/docs/examples/reactjs/
 
 Contact Template: https://codepen.io/JonLehman/pen/yOdbOG
+
+PDF implementation: https://medium.com/@stheodorejohn/a-guide-to-display-pdf-documents-in-react-bcd9fb0f56b0#:~:text=The%20simplest%20way%20to%20display,URL%20of%20the%20PDF%20file.

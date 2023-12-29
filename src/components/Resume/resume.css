@@ -1,0 +1,26 @@
+/* resume.css */
+
+.resume-section {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .resume-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .resume-display {
+    margin-bottom: 20px;
+  }
+  
+  .resume-content a {
+    color: #007bff; /* Link color */
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .resume-content a:hover {
+    text-decoration: underline;
+  }
+  
