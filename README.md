@@ -20,3 +20,5 @@ Installing Material UI: https://mui.com/getting-started/installation/
 Lines 49 - 57 in Portfolio: Sourced from ChatGPT
 
 EmailJS integration in Contact: https://www.emailjs.com/docs/examples/reactjs/
+
+Contact Template: https://codepen.io/JonLehman/pen/yOdbOG
