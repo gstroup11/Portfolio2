@@ -19,7 +19,7 @@ const Resume = () => {
           ></iframe>
         </div>
 
-        <p>
+        <p className='resume-p'>
           Download my resume:{' '}
           <a
             href="/resume.pdf" 

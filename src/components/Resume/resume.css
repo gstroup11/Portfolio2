@@ -4,7 +4,7 @@
     padding: 50px;
     text-align: center;
   }
-  
+
   .resume-content {
     max-width: 800px;
     margin: 0 auto;
@@ -22,5 +22,9 @@
   
   .resume-content a:hover {
     text-decoration: underline;
+  }
+
+  .resume-p {
+    color: #ddd;
   }
   
