@@ -1,0 +1,26 @@
+navigation {
+    display: flex;
+    justify-content: flex-end; /* Align links to the right */
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 20px; /* Adjust the space between links */
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #ffffff; /* Dark text color for links */
+    font-size: 16px;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-links a:hover {
+    color: #007bff; /* Change color on hover */
+  }
+  
+  /* Style for the 'active' class */
+  .nav-links a.active {
+    color: #007bff; /* Set the active link color */
+    font-weight: bold; /* Optionally make the active link bold */
+  }
