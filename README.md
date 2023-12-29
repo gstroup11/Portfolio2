@@ -17,4 +17,6 @@ Adding an Avatar: https://mui.com/material-ui/react-avatar/#image-avatars
 
 Installing Material UI: https://mui.com/getting-started/installation/
 
-Lines 49 - 57: Sourced from ChatGPT
+Lines 49 - 57 in Portfolio: Sourced from ChatGPT
+
+EmailJS integration in Contact: https://www.emailjs.com/docs/examples/reactjs/
