@@ -1,13 +1,35 @@
-# React + Vite
+# React Portfolio
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This is a portfolio built using React. It is a single page application that uses React Router to navigate between pages. It is styled using Material UI. It is deployed on netlify.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Portfolio Screenshot](./src/assets/portfolio.png)
 
+## Table of Contents
 
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [References](#references)
+* [Questions](#questions)
+
+## Installation
+
+To install the necessary dependencies, run the following command:
+
+``` npm i ``` 
+
+## Usage
+
+To run the application, run the following command:
+
+``` npm start ```
+
+## License
+
+This project is licensed under the MIT license.
 
 ## References
 
@@ -26,3 +48,7 @@ Contact Template: https://codepen.io/JonLehman/pen/yOdbOG
 PDF implementation: https://medium.com/@stheodorejohn/a-guide-to-display-pdf-documents-in-react-bcd9fb0f56b0#:~:text=The%20simplest%20way%20to%20display,URL%20of%20the%20PDF%20file.
 
 All Icons are from FontAwesome: https://fontawesome.com/
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at [gstroup11@gmail.com]
