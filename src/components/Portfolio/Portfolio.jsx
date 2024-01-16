@@ -9,10 +9,10 @@ const projects = [
     githubLink: "https://github.com/gstroup11/Lyrx",
   },
   {
-    title: "JATE",
-    image: "/JATE.png",
-    deployLink: "https://j-a-t-e-ei2e.onrender.com/",
-    githubLink: "https://github.com/gstroup11/J.A.T.E",
+    title: "Write.",
+    image: "/Write.png",
+    deployLink: "https://write-1k8g.onrender.com/",
+    githubLink: "https://github.com/gstroup11/Write",
   },
   {
     title: "The Mattress Shop",
